@@ -28,6 +28,7 @@ Gizumo のカリキュラムを管理。やったこと、メモなどをまと�
 -　4, HTML CSS コーディングルール
 
       - [メンテナブル](https://coliss.com/articles/build-websites/operation/css/maintainable-css-by-adam.html):タグの命名は分かりやすくだが、見た目の名前はわからない。(ex: red / solorset)
+      
       - タグ名は既存の物は使えない。ただし、繰り返し使うものは使いやすくして、再利用。
 
 
