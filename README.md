@@ -14,11 +14,7 @@ Gizumo のカリキュラムを管理。やったこと、メモなどをまと�
       
       - DIV や body タグに直接設定はしない。　全体を変えたいときは、そのタグを作って、それで囲む。
       
-      - [.タグ名]tabキーで枠をショートカット作成。便利。[!]tabキーでDOCTYPE html　を記入など色々。     
-      
-      - [メンテナブル](https://coliss.com/articles/build-websites/operation/css/maintainable-css-by-adam.html):タグの命名は分かりやすくだが、見た目の名前はわからない。(ex: red / solorset)
-      
-      - タグ名は既存の物は使えない。ただし、繰り返し使うものは使いやすくして、再利用。
+      - [.タグ名]tabキーで枠をショートカット作成。便利。[!]tabキーでDOCTYPE html　を記入など色々
       
       - コメントアウトは/**/で行う。//はダメ。
 
@@ -30,6 +26,9 @@ Gizumo のカリキュラムを管理。やったこと、メモなどをまと�
 **7/30(月)**
 
 -　4, HTML CSS コーディングルール
+
+      - [メンテナブル](https://coliss.com/articles/build-websites/operation/css/maintainable-css-by-adam.html):タグの命名は分かりやすくだが、見た目の名前はわからない。(ex: red / solorset)
+      - タグ名は既存の物は使えない。ただし、繰り返し使うものは使いやすくして、再利用。
 
 
 
