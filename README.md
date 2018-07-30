@@ -16,7 +16,7 @@ Gizumo のカリキュラムを管理。やったこと、メモなどをまと�
       
       - [.タグ名]tabキーで枠をショートカット作成。便利。[!]tabキーでDOCTYPE html　を記入など色々。     
       
-      - メンテナブル:タグの命名は分かりやすくだが、見た目の名前はわからない。(ex: red / solorset)
+      - [メンテナブル](https://coliss.com/articles/build-websites/operation/css/maintainable-css-by-adam.html):タグの命名は分かりやすくだが、見た目の名前はわからない。(ex: red / solorset)
       
       - タグ名は既存の物は使えない。ただし、繰り返し使うものは使いやすくして、再利用。
       
