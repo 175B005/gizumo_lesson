@@ -17,6 +17,8 @@ Gizumo のカリキュラムを管理。やったこと、メモなどをまと�
       - [.タグ名]tabキーで枠をショートカット作成。便利。[!]tabキーでDOCTYPE html　を記入など色々
       
       - コメントアウトは/**/で行う。//はダメ。
+      
+      - http://giztech.gizumo-inc.work/categories/4/140
 
 
 自分メモ　file:///C:/Users/runashi-hosi/Desktop/Gizumo/DIV_PUZZLE3/puzzle2.html
