@@ -169,8 +169,12 @@ Gizumo のカリキュラムを管理。やったこと、メモなどをまと�
 
 **9/26**
 
-- jQuery ninth
+- jQuery ninth 参考　https://www.sria.co.jp/blog/2014/10/lets-use-ajax-part-1-try-it-with-ajax-and-json/
 
+      - ninth 完了
+      
+      - seventh 画像サイズは均一とは限らないー＞　画像サイズを端から足していき、配列にあらかじめポジションを入れておく。
+      
       - 
 
 ***
